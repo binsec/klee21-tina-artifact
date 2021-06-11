@@ -1,7 +1,7 @@
 ***TInA*** is supplied as an self-contained [AppImage](bin/tina-x86_64.AppImage) (**Linux** equivalent of `.exe` on **Windows**).
 It should be run in a `x86_64` **Ubuntu** *20.04* environment to work properly.
 
-In addition to the *AppImage* itself, we released a **docker** container "ready-to-use".
+In addition to the *AppImage* itself, we released a [**docker**](https://github.com/binsec/klee21-tina-artifact/releases/download/1.0/klee21-tina-artifact.tar.gz) container "ready-to-use".
 *Container only wrap the content of the repository with the fixed dependencies.*
 
 The setup will depend on the choosen method:
@@ -11,6 +11,8 @@ The setup will depend on the choosen method:
 *AppImage* is working off-the-shelf.
 
 # Docker user
+
+The container is available in the [release panel](https://github.com/binsec/klee21-tina-artifact/releases/tag/1.0) ([download](https://github.com/binsec/klee21-tina-artifact/releases/download/1.0/klee21-tina-artifact.tar.gz)).
 
 In a terminal, use the following to install the container:
 ```shell
