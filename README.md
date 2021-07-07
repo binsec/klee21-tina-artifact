@@ -128,5 +128,5 @@ If you experiment any issue running ***TInA***, do not hesitate to open an issue
 License
 ----
 
-This artifact is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License.
-It is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the [GNU General Public License](LICENSE) for more details.
+This artifact is free software: you can redistribute it and/or modify it under the terms of the MIT License.
+It is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the [MIT License](LICENSE) for more details.
